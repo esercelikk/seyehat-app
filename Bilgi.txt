@@ -1,0 +1,38 @@
+NESNE TABANLI PROGRAMLAMA DERSİ PROJE ÇALIŞMASI
+
+Ad Soyad: Eser Çelik
+Öğrenci No: 2500004075
+Ders: Nesne Tabanlı Programlama
+Ders Hocası: Erdem Yücesan
+
+PROJE İÇERİĞİ:
+
+Ödev 9 ve 10
+
+Bu klasörde tarafımca geliştirilmiş iki adet masaüstü uygulaması bulunmaktadır:
+
+1. CRM Uygulaması (CRM_app)
+
+* Müşteri yönetimi
+* Ekip ve rol yönetimi
+* Satış ve veri takibi
+* SQLite veritabanı kullanılmıştır
+
+2. Seyahat Planlama Uygulaması (SEYAHAT_app)
+
+* Seyahat oluşturma ve düzenleme
+* Tarih, bütçe ve aktivite planlama
+* Kullanıcı dostu arayüz tasarımı
+
+TEKNİK DETAYLAR:
+
+* Uygulamalar Python programlama dili ile geliştirilmiştir
+* Nesne Tabanlı Programlama (OOP) prensipleri kullanılmıştır
+* Arayüz geliştirme için PyQt5 kullanılmıştır
+* Veritabanı olarak SQLite tercih edilmiştir
+* Her iki proje de .exe (setup) formatına dönüştürülmüştür
+
+KURULUM:
+İlgili .exe  dosyalarını çalıştırarak uygulamaları kullanabilirsiniz 
+
+Tarih: 23.04.2026
