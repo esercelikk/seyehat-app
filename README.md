@@ -1,10 +1,10 @@
-# 🌍 TravelPlan – Akıllı Seyahat Planlama Uygulaması
+#  TravelPlan – Akıllı Seyahat Planlama Uygulaması
 
 > Seyahatlerinizi tek bir yerden planlayıp yönetebileceğiniz, AI destekli modern bir masaüstü uygulaması.
 
 ---
 
-## 📌 Genel Bakış
+##  Genel Bakış
 
 **TravelPlan**, kullanıcıların seyahatlerini planlamasını, yönetmesini ve takip etmesini sağlayan masaüstü tabanlı bir uygulamadır.
 
@@ -12,7 +12,7 @@ Planlama, bütçe yönetimi, harita, takvim ve yapay zeka destekli önerileri te
 
 ---
 
-## 🎯 Amaç
+##  Amaç
 
 Bu uygulamanın amacı, seyahat sürecini **tek merkezden yönetilebilir, düzenli ve anlaşılır** hale getirmektir.
 
@@ -26,46 +26,46 @@ TravelPlan ile kullanıcılar:
 
 ---
 
-## 🚀 Özellikler
+##  Özellikler
 
-### 👤 Kullanıcı Sistemi
+###  Kullanıcı Sistemi
 - Kayıt olma ve giriş yapma
 - Profil düzenleme
 - Profil fotoğrafı yükleme
 
-### 🧳 Seyahat Yönetimi
+###  Seyahat Yönetimi
 - Yeni seyahat oluşturma
 - Seyahat düzenleme ve silme
 - Arama ve filtreleme
 - Seyahat listeleme
 
-### 🏨 Seyahat Detayları
+###  Seyahat Detayları
 - Konaklama ekleme ve silme
 - Aktivite planlama
 - Uçuş bilgisi ekleme
 - Notlar
 - Seyahat arkadaşları
 
-### 📅 Planlama Araçları
+###  Planlama Araçları
 - Günlük plan oluşturma
 - Takvim görünümü
 - Zaman çizelgesi
 
-### 💰 Bütçe Sistemi
+###  Bütçe Sistemi
 - Harcama takibi
 - Bütçe yönetimi
 
-### 🗺️ Harita Özellikleri
+###  Harita Özellikleri
 - Seyahat noktalarını görüntüleme
 - Genel harita ekranı
 
-### 🔔 Bildirim Sistemi
+###  Bildirim Sistemi
 - Sistem bildirimleri
 
-### 🌗 Arayüz Özellikleri
+###  Arayüz Özellikleri
 - Açık / Koyu tema
 
-### 🤖 Yapay Zeka Özellikleri
+###  Yapay Zeka Özellikleri
 - Bütçeye ve süreye göre şehir önerisi
 - Otomatik seyahat planı oluşturma
 - Maliyet tahmini
@@ -73,7 +73,7 @@ TravelPlan ile kullanıcılar:
 
 ---
 
-## 🛠️ Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 
 - **Python**
 - **PyQt5**
@@ -84,7 +84,7 @@ TravelPlan ile kullanıcılar:
 
 ---
 
-## 🧠 Yapay Zeka Sistemi
+##  Yapay Zeka Sistemi
 
 Uygulama içerisinde **kural tabanlı yerel bir AI sistemi** bulunmaktadır.
 
@@ -99,7 +99,7 @@ Bu sistem:
 
 ---
 
-## 🗄️ Veritabanı Yapısı
+##  Veritabanı Yapısı
 
 Uygulama **SQLite** kullanır.
 
@@ -117,29 +117,29 @@ Temel tablolar:
 
 ---
 
-## 🧱 Mimari Yapı
+##  Mimari Yapı
 
 Proje **modüler mimari** ile geliştirilmiştir:
 
-### 🎨 Arayüz Katmanı
+###  Arayüz Katmanı
 - `ui.py`  
 Tüm ekran ve görsel bileşenleri yönetir  
 
-### ⚙️ İş Mantığı Katmanı
+###  İş Mantığı Katmanı
 - `main.py`  
 Uygulama akışı ve işlemler  
 
-### 🗃️ Veritabanı Katmanı
+###  Veritabanı Katmanı
 - `database.py`  
 Veri işlemleri  
 
-### 🤖 AI Katmanı
+###  AI Katmanı
 - `ai.py`  
 Öneri ve planlama sistemi  
 
 ---
 
-## 💾 Veri Saklama (ÖNEMLİ)
+##  Veri Saklama (ÖNEMLİ)
 
 Veri kaybını önlemek için veritabanı:
 
@@ -154,7 +154,7 @@ konumunda saklanır.
 
 ---
 
-## 🧪 Demo Hesap
+##  Demo Hesap
 
 Uygulamayı test etmek için:
 
@@ -171,7 +171,7 @@ Demo içerikleri:
 
 ---
 
-## ▶️ Çalışma Mantığı
+##  Çalışma Mantığı
 
 1. Kullanıcı giriş yapar  
 2. Ana ekranı görüntüler  
@@ -182,7 +182,7 @@ Demo içerikleri:
 
 ---
 
-## 📦 Kurulum
+##  Kurulum
 
 ```bash
 pip install -r requirements.txt
@@ -193,7 +193,7 @@ Veya hazır **setup.exe** dosyası kullanılabilir.
 
 ---
 
-## 📌 Proje Amacı
+##  Proje Amacı
 
 TravelPlan:
 
@@ -206,7 +206,7 @@ sunmayı hedefler.
 
 ---
 
-## 👨‍💻 Geliştirici
+##  Geliştirici
 
 **Eser Çelik**  
 Bilgisayar Programcılığı
